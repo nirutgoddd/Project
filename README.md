@@ -1,6 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://marketplace.canva.com/wDGss/MAEy6twDGss/1/tl/canva-cartoon-avocado-illustration-MAEy6twDGss.png" alt="header image" width="600"/>
+  <img src="https://marketplace.canva.com/wDGss/MAEy6twDGss/1/tl/canva-cartoon-avocado-illustration-MAEy6twDGss.png" 
+       alt="header image" 
+       style="max-width: 80%; height: auto; border-radius: 16px;" />
 </p>
 
 <h1 align="center">
