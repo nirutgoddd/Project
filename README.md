@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://marketplace.canva.com/wDGss/MAEy6twDGss/1/tl/canva-cartoon-avocado-illustration-MAEy6twDGss.png" 
        alt="header image" 
-       style="max-width: 80%; height: auto; border-radius: 16px;" />
+       style="max-width: 50%; height: auto; border-radius: 10px;" />
 </p>
 
 <h1 align="center">
